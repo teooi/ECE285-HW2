@@ -1,0 +1,16 @@
+# Ignore dataset folder
+chest_xray/
+
+# Ignore generated and real sample outputs
+generated_samples/
+real_samples/
+
+# Ignore Python virtual environment
+venv/
+
+# Optional: Ignore Jupyter checkpoint files
+.ipynb_checkpoints/
+
+# Optional: Ignore model checkpoints and other outputs
+*.pt
+*.png
